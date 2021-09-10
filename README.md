@@ -41,14 +41,18 @@ CSS: Já tenho um bom conhecimento
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    
 <!--
-JavaScript: Estu
+JavaScript: Estudando Muito.
 -->
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    
-<!---->
+<!--
+TypeScript: Iniciando e Estudando.
+-->
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    
-<!---->
+<!--
+
+-->
   <img align="center" alt="Rafa-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    
 <!---->   
