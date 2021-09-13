@@ -51,7 +51,7 @@ TypeScript: Iniciando e Estudando.
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    
 <!--
-
+NodeJS: Uma experiência top no estágio
 -->
   <img align="center" alt="Rafa-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    
