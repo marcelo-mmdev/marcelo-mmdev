@@ -1,6 +1,6 @@
 ### Olá! Sou o Dev Marcelo Rodrigues
 <!--  
-Todos os meus repositórios são de estudos, com alguns projetos do AcademyPRO.
+Todos os meus repositórios são de estudos, com alguns projetos do AcademyPRO com base em estudos.
 --->
 
 <div>
