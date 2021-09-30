@@ -83,3 +83,4 @@ NodeJS: Uma experiência top no estágio
   ![Snake animation](https://github.com/MMarcelo-Rodrigues/MMarcelo-Rodrigues/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+  <!---->
