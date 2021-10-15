@@ -72,11 +72,6 @@ NodeJS: Uma experiência top no estágio
 </div>
   
   <!----><!---->
-  <!----><!---->
-  <!----><!---->
-  <!----><!---->
- 
-  
   
 <br>
 <!-- Link para Contatos -->
