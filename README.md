@@ -54,7 +54,7 @@ TypeScript: Estudando Muito.
 <!-- 
 Angular: Atualmente trabalhando para uma empresa como programador jr
 --> 
-  <img align="center" alt="Rafa-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs      original.svg">
+  <img align="center" alt="Rafa-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
    
 </div>
   
