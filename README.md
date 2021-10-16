@@ -45,7 +45,6 @@ CSS: Já tenho um bom conhecimento
 JavaScript: Estudando Muito.
 -->
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
    
 <!--
 TypeScript: Estudando Muito.
