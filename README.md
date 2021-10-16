@@ -1,6 +1,7 @@
 ### Olá! Sou o Dev Marcelo Rodrigues
 <!--  
-Todos os meus repositórios são de estudos, com alguns projetos do AcademyPRO com base em estudos.
+Todos os meus repositórios são de estudos e especialização, com alguns projetos do AcademyPRO com base em estudos.
+Alguns projetos com especialização profissional
 --->
 
 <div>
@@ -24,7 +25,7 @@ Linux: Já algum tempo so usuario linux, já desenvolvi projetos com servidor ba
    
 <!--
 Java: Foi a linguagem que estudei na faculdade(FAVIP)
-      atualmente estudando, tenho o basico no framework spring boot. 
+      atualmente estudando, com uma pouca experiencia no framework spring boot. 
 -->
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    
@@ -36,7 +37,7 @@ HTML: Já tenho um bom conhecimento
    
 <!--
 CSS: Já tenho um bom conhecimento
-     atualmente estudando para ter mais conhecimento, para poder desenvolver em Front-end.
+     atualmente estudando para ter mais conhecimento, para poder desenvolver mais minhas habilidades Front-end.
 -->
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    
@@ -47,29 +48,17 @@ JavaScript: Estudando Muito.
   <img align="center" alt="Rafa-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
    
 <!--
-TypeScript: Iniciando e Estudando.
+TypeScript: Estudando Muito.
 -->
- <!-- <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  --> 
-<!--
-NodeJS: Uma experiência top no estágio
---> <!--
-  <img align="center" alt="Rafa-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    
-<!--
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
--->  <!-- 
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    -->
-<!----><!--
-   <img align="center" alt="Rafa-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> -->
-<!---->
- <!---
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
- ------>    
+<!-- 
+Angular: Atualmente trabalhando para uma empresa como programador jr
+--> 
+  <img align="center" alt="Rafa-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs      original.svg">
+   
 </div>
   
-  <!----><!---->
   
 <br>
 <!-- Link para Contatos -->
