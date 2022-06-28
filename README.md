@@ -27,7 +27,7 @@ Linux: Já algum tempo so usuario linux, já desenvolvi projetos com servidor ba
 Java: Foi a linguagem que estudei na faculdade(FAVIP)
       atualmente estudando, com uma pouca experiencia no framework spring boot. 
 -->
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<!--   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
    
 <!--
 HTML: Já tenho um bom conhecimento 
@@ -54,7 +54,7 @@ TypeScript: Estudando Muito.
 <!-- 
 Angular: Trabalhei para uma empresa como programador jr
 --> 
-  <img align="center" alt="Rafa-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+<!--   <img align="center" alt="Rafa-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> -->
    
    <!-- 
 ReactJS: Atualmente trabalhando para uma empresa como programador jr
