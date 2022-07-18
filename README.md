@@ -75,5 +75,5 @@ ReactJS: Atualmente trabalhando para uma empresa como programador jr
   ![Snake animation](https://github.com/MMarcelo-Rodrigues/MMarcelo-Rodrigues/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-  <!----><!----><!---->
+  <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
   
