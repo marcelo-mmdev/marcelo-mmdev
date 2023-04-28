@@ -8,6 +8,14 @@ Alguns projetos com especialização profissional
 <!--
 Essas a baixo são minhas principais Stacks que estudei em minha pouca jornada 
 OBS: Todas estão comentadas 
+
+
+<div>
+  <a href="https://github.com/MMaarcelo-Rodrigues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MMarcelo-Rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMarcelo-Rodrigues&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 -->
 <!---->
  <div style="display: inline_block"><br>
@@ -55,6 +63,8 @@ Angular: Trabalhei para uma empresa como programador jr
 ReactJS: Atualmente trabalhando para uma empresa como programador jr
 --> 
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
+  <img align="center" alt="Rafa-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
    
 </div>
   
