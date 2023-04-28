@@ -4,11 +4,6 @@ Todos os meus repositórios são de estudos e especialização, com alguns proje
 Alguns projetos com especialização profissional
 --->
 
-<div>
-  <a href="https://github.com/MMaarcelo-Rodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MMarcelo-Rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMarcelo-Rodrigues&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 <!--
 Essas a baixo são minhas principais Stacks que estudei em minha pouca jornada 
