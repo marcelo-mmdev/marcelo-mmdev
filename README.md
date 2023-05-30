@@ -53,6 +53,9 @@ JavaScript: Estudando Muito.
 TypeScript: Estudando Muito.
 -->
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 <!-- 
 Angular: Trabalhei para uma empresa como programador jr
@@ -67,7 +70,7 @@ ReactJS: Atualmente trabalhando para uma empresa como programador jr
   <img align="center" alt="Rafa-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   
   <img align="center" alt="Rafa-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Rafa-SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring-boot/spring-boot-original.svg">
+  
    
 </div>
   
