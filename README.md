@@ -1,4 +1,7 @@
-### Olá! Sou o Dev Marcelo Rodrigues
+# Olá! Sou o Dev Marcelo Rodrigues
+
+### Sou Desenvolvedor de Software recém formado em Análise e Desenvolvimento de Sistemas, me interesso muito por sempre querer encontrar soluções para problemas utilizando a tecnologia. Apaixonado por Programação e Animes. Procuro sempre me atualizar na área de Desenvolvimento de Software, participando de grupos, fóruns e cursos online. Estou com 2 anos de experiência e já atuei tanto no back-end como no front-end, utilizando Java, Javascript, Typescript, Reactjs, Spring, Nodejs, PostgreSQL, SQL Server e atualmente estou estudando Nextjs e Spring Boot, pois tenho muito a evoluir como pessoa e como desenvolvedor.
+
 <!--  
 Todos os meus repositórios são de estudos e especialização, com alguns projetos do AcademyPRO com base em estudos.
 Alguns projetos com especialização profissional
