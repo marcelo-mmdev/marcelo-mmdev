@@ -91,6 +91,7 @@ ReactJS: Atualmente trabalhando para uma empresa como programador jr
 <br>
 <!-- Link para Contatos -->
 <div>
+  <a href="https://discord.gg/EBbP4JHu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
   ![Snake animation](https://github.com/MMarcelo-Rodrigues/MMarcelo-Rodrigues/blob/output/github-contribution-grid-snake.svg) 
 </div>
   <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
