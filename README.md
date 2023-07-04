@@ -19,11 +19,6 @@ OBS: Todas estão comentadas
 -->
 <!---->
  <div style="display: inline_block"><br>
- <div>
-  <a href="https://github.com/marcelo-mmdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo-mmdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-mmdev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
    
 <!--
 Linux: Já algum tempo so usuario linux, já desenvolvi projetos com servidor baseado em Debian
@@ -77,6 +72,12 @@ ReactJS: Atualmente trabalhando para uma empresa como programador jr
   <img align="center" alt="Rafa-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   
    
+</div>
+
+<div>
+  <a href="https://github.com/marcelo-mmdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo-mmdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-mmdev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
