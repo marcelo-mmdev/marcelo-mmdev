@@ -19,8 +19,8 @@ Alguns projetos com especialização profissional
 
 <div>
   <a href="https://github.com/marcelo-mmdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo-mmdev&show_icons=true&theme=merko#gh-merko-mode-only"/>
-<!--   <img height="180em" src="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo-mmdev&show_icons=true&theme=gruvbox#gh-gruvbox-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-mmdev&show_icons=true&theme=gruvbox#gh-gruvbox-mode-only"/>
 
 <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo-mmdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
