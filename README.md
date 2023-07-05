@@ -22,6 +22,13 @@ Alguns projetos com especialização profissional
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only"/>
   <img height="180em" src="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>
 
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only"/>
+  <img height="180em" src="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo-mmdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-mmdev&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
     
 <br>
