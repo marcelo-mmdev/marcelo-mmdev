@@ -105,6 +105,5 @@ ReactJS: Atualmente trabalhando para uma empresa como programador jr
 
 </div>
 
-  <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-  
+  <!----><!---->
   
