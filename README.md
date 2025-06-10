@@ -11,7 +11,7 @@ Alguns projetos com especialização profissional
   <a href="https://www.mmdev.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
   <a href="https://www.linkedin.com/in/marcelo-mmdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://api.whatsapp.com/send?phone=5581989044977" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
-  <a href="https://www.instagram.com/mmdev.marcelo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <!--a href="https://www.instagram.com/mmdev.marcelo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <!--   <a href="https://www.youtube.com/channel/UCJSNKMU2mMPa3udsN_M-_zQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a> -->
 </div>
 
