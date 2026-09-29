@@ -53,7 +53,7 @@ Este perfil reúne meus projetos, experimentos e trabalhos relacionados ao desen
 <div align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=marcelo-mmdev&bg_color=ffffff&color=0e2d6c&title_color=0e2d6c&line=0e2d6c&point=9db2dc&area_color=9db2dc&area=true&hide_border=true&custom_title=Minha%20Atividade%20no%20GitHub"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=marcelo-mmdev&bg_color=0d1117&color=9db2dc&title_color=9db2dc&line=0e2d6c&point=9db2dc&area_color=0e2d6c&area=true&hide_border=true&custom_title=Minha%20Atividade%20no%20GitHub"
     width="95%"
     alt="GitHub Activity Graph"
   />
