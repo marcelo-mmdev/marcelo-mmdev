@@ -53,7 +53,7 @@ Este perfil reúne meus projetos, experimentos e trabalhos relacionados ao desen
 <div align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=ffffff&color=0e2d6c&line=0e2d6c&point=9db2dc&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=marcelo-mmdev&bg_color=ffffff&color=0e2d6c&line=0e2d6c&point=9db2dc&area=true&hide_border=true"
     width="95%"
     alt="GitHub Activity Graph"
   />
@@ -257,17 +257,17 @@ Projeto desenvolvido durante os estudos iniciais com React e Yarn.
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/marcelo-mmdev">
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=0e2d6c&icon_color=0e2d6c&text_color=4b5563"
+  src="https://github-readme-stats.vercel.app/api?username=marcelo-mmdev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=0e2d6c&icon_color=0e2d6c&text_color=4b5563"
   alt="GitHub Stats"
 />
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff&title_color=0e2d6c&text_color=4b5563"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-mmdev&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff&title_color=0e2d6c&text_color=4b5563"
   alt="Top Languages"
 />
 
@@ -282,7 +282,7 @@ Projeto desenvolvido durante os estudos iniciais com React e Yarn.
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=FFFFFF&ring=0e2d6c&fire=9db2dc&currStreakLabel=0e2d6c&sideLabels=0e2d6c&currStreakNum=0e2d6c&sideNums=0e2d6c&dates=6b7280"
+  src="https://streak-stats.demolab.com?user=marcelo-mmdev&hide_border=true&background=FFFFFF&ring=0e2d6c&fire=9db2dc&currStreakLabel=0e2d6c&sideLabels=0e2d6c&currStreakNum=0e2d6c&sideNums=0e2d6c&dates=6b7280"
   alt="GitHub Streak"
 />
 
@@ -295,7 +295,7 @@ Projeto desenvolvido durante os estudos iniciais com React e Yarn.
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7"
+  src="https://github-profile-trophy.vercel.app/?username=marcelo-mmdev&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7"
   alt="GitHub Trophies"
 />
 
@@ -308,7 +308,7 @@ Projeto desenvolvido durante os estudos iniciais com React e Yarn.
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"
+  src="https://raw.githubusercontent.com/marcelo-mmdev/marcelo-mmdev/output/github-contribution-grid-snake.svg"
   alt="Snake animation"
 />
 
@@ -321,7 +321,7 @@ Projeto desenvolvido durante os estudos iniciais com React e Yarn.
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=ffffff&color=0e2d6c&line=0e2d6c&point=9db2dc&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=marcelo-mmdev&bg_color=ffffff&color=0e2d6c&line=0e2d6c&point=9db2dc&area=true&hide_border=true"
   width="95%"
   alt="Contribution Graph"
 />
