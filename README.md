@@ -1,108 +1,329 @@
-# Olá! Sou o Dev Marcelo Rodrigues
-
-#### Sou Desenvolvedor de Software formado em Análise e Desenvolvimento de Sistemas, me interesso muito por sempre querer encontrar soluções para problemas utilizando a tecnologia. Apaixonado por Programação e Animes. Procuro sempre me atualizar na área de Desenvolvimento de Software, participando de grupos, fóruns e cursos online. Estou com +2 anos de experiência e já atuei tanto no back-end como no front-end, utilizando Java, Javascript, Typescript, Reactjs, Spring, Nodejs, PostgreSQL, SQL Server e atualmente estou estudando Nextjs e Spring Boot, pois tenho muito a evoluir como pessoa e como desenvolvedor.
-
-<!--  
-Todos os meus repositórios são de estudos e especialização, com alguns projetos do AcademyPRO com base em estudos.
-Alguns projetos com especialização profissional
---->
-<!-- Link para Contatos -->
-<div>
-  <a href="https://www.mmdev.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
-  <a href="https://www.linkedin.com/in/marcelo-mmdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5581989044977" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
-  <a href="https://www.instagram.com/mmdev.marcelo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<!--   <a href="https://www.youtube.com/channel/UCJSNKMU2mMPa3udsN_M-_zQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a> -->
-</div>
-
-<br>
-
-<div>
-  <a href="https://github.com/marcelo-mmdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo-mmdev&show_icons=true&theme=tokyonight#gh-tokyonight-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-mmdev&show_icons=true&layout=compact&langs_count=8&theme=tokyonight#gh-tokyonight-mode-only"/>
-
 <!--
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo-mmdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-mmdev&layout=compact&langs_count=7&theme=dracula"/>
+  ============================================================
+  MARCELO RODRIGUES — GitHub Profile README
+  ============================================================
 -->
-</div>
-    
-<br>
-  
-<!--
-Essas a baixo são minhas principais Stacks que estudei em minha pouca jornada 
-OBS: Todas estão comentadas 
 
+<div align="center">
 
-<div>
-  <a href="https://github.com/MMaarcelo-Rodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MMarcelo-Rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMarcelo-Rodrigues&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <!-- BANNER -->
 
--->
-<!---->
- <div style="display: inline_block"><br>
-   
-<!--
-Linux: Já algum tempo so usuario linux, já desenvolvi projetos com servidor baseado em Debian
-       atualmente estudando para certificações LINUX essentials e LPIC-1.
--->
-  <img align="center" alt="Rafa-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-   
-<!--
-Java: Foi a linguagem que estudei na faculdade(FAVIP)
-      atualmente estudando, com uma pouca experiencia no framework spring boot. 
--->
-<!--   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
-   
-<!--
-HTML: Já tenho um bom conhecimento 
-      atualmente estudando para ter mais conhecimento.
--->
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   
-<!--
-CSS: Já tenho um bom conhecimento
-     atualmente estudando para ter mais conhecimento, para poder desenvolver mais minhas habilidades Front-end.
--->
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   
-<!--
-JavaScript: Estudando Muito.
--->
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   
-<!--
-TypeScript: Estudando Muito.
--->
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
-  
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0e2d6c&text=Marcelo%20Rodrigues&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Developer%20Specialist&descAlignY=58&descSize=20&animation=fadeIn"
+    width="100%"
+  />
 
-<!-- 
-Angular: Trabalhei para uma empresa como programador jr
---> 
-<!--   <img align="center" alt="Rafa-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> -->
-   
-   <!-- 
-ReactJS: Atualmente trabalhando para uma empresa como programador jr
---> 
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-  <img align="center" alt="Rafa-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  
-  <img align="center" alt="Rafa-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  
-   
-</div>
+  <!-- TYPING -->
 
-<div>
-  
-  ![Snake animation](https://github.com/MMarcelo-Rodrigues/MMarcelo-Rodrigues/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://www.mmdev.com.br">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=9DB2DC&center=true&vCenter=true&width=700&lines=Software+Developer+Specialist;Java+%7C+TypeScript+%7C+JavaScript;React.js+%7C+Next.js+%7C+Node+%7C+Spring"
+      alt="Typing animation"
+    />
+  </a>
+
+  <br />
+
+  <a href="https://www.mmdev.com.br">
+    <img src="https://img.shields.io/badge/Website-0e2d6c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/marcelo-mmdev">
+    <img src="https://img.shields.io/badge/LinkedIn-0e2d6c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com">
+    <img src="https://img.shields.io/badge/GitHub-0e2d6c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
 </div>
 
-  <!----><!---->
+<br />
+
+---
+
+## 👋 Sobre mim
+
+Sou **Marcelo Rodrigues**, **Software Developer Specialist**.
+
+Meu foco está no desenvolvimento de software utilizando tecnologias como **Java, TypeScript, JavaScript, React.js, Next.js, Node.js e Spring**.
+
+Este perfil reúne meus projetos, experimentos e trabalhos relacionados ao desenvolvimento de software.
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=marcelo-mmdev&bg_color=ffffff&color=0e2d6c&line=0e2d6c&point=9db2dc&area=true&hide_border=true"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
+
+</div>
+
+---
+
+# 🛠️ Tecnologias
+
+<div align="center">
+
+### Backend
+
+<a href="https://www.java.com/">
+  <img src="https://skillicons.dev/icons?i=java" height="55" alt="Java" />
+</a>
+&nbsp;
+<a href="https://spring.io/">
+  <img src="https://skillicons.dev/icons?i=spring" height="55" alt="Spring" />
+</a>
+&nbsp;
+<a href="https://nodejs.org/">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="Node.js" />
+</a>
+
+<br /><br />
+
+### Frontend
+
+<a href="https://www.typescriptlang.org/">
+  <img src="https://skillicons.dev/icons?i=typescript" height="55" alt="TypeScript" />
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript" />
+</a>
+&nbsp;
+<a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="React.js" />
+</a>
+&nbsp;
+<a href="https://nextjs.org/">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="Next.js" />
+</a>
+
+<br /><br />
+
+### Desenvolvimento
+
+<img
+  src="https://skillicons.dev/icons?i=java,spring,nodejs,typescript,javascript,react,nextjs"
+  alt="Technologies"
+/>
+
+</div>
+
+---
+
+# 🚀 Projetos
+
+> Alguns dos projetos que estou desenvolvendo e mantendo.
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 Projeto 01
+
+Descrição do projeto.
+
+<br />
+
+<a href="#">
+  <img
+    src="https://img.shields.io/badge/Ver%20projeto-0e2d6c?style=for-the-badge"
+    alt="Ver projeto"
+  />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Projeto 02
+
+Descrição do projeto.
+
+<br />
+
+<a href="#">
+  <img
+    src="https://img.shields.io/badge/Ver%20projeto-0e2d6c?style=for-the-badge"
+    alt="Ver projeto"
+  />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Projeto 03
+
+Descrição do projeto.
+
+<br />
+
+<a href="#">
+  <img
+    src="https://img.shields.io/badge/Ver%20projeto-0e2d6c?style=for-the-badge"
+    alt="Ver projeto"
+  />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔧 Projeto 04
+
+Descrição do projeto.
+
+<br />
+
+<a href="#">
+  <img
+    src="https://img.shields.io/badge/Ver%20projeto-0e2d6c?style=for-the-badge"
+    alt="Ver projeto"
+  />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+> **Nota:** substitua os links e descrições acima pelos seus projetos reais. Não incluí projetos específicos porque você forneceu apenas `[LINKS DOS PROJETOS]`.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=0e2d6c&icon_color=0e2d6c&text_color=4b5563"
+  alt="GitHub Stats"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff&title_color=0e2d6c&text_color=4b5563"
+  alt="Top Languages"
+/>
+
+</a>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=FFFFFF&ring=0e2d6c&fire=9db2dc&currStreakLabel=0e2d6c&sideLabels=0e2d6c&currStreakNum=0e2d6c&sideNums=0e2d6c&dates=6b7280"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7"
+  alt="GitHub Trophies"
+/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"
+  alt="Snake animation"
+/>
+
+</div>
+
+---
+
+# 📈 Contributions
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=ffffff&color=0e2d6c&line=0e2d6c&point=9db2dc&area=true&hide_border=true"
+  width="95%"
+  alt="Contribution Graph"
+/>
+
+</div>
+
+---
+
+# 🌐 Onde me encontrar
+
+<div align="center">
+
+<a href="https://www.mmdev.com.br">
+  <img
+    src="https://img.shields.io/badge/mmdev.com.br-0e2d6c?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Website"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/marcelo-mmdev">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0e2d6c?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<a href="https://www.mmdev.com.br">
+  <img
+    src="https://img.shields.io/badge/WWW.MMDEV.COM.BR-9DB2DC?style=flat-square&logo=googlechrome&logoColor=0e2d6c"
+    alt="MMDev"
+  />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Desenvolvendo soluções. Evoluindo continuamente.
+
+<br />
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0e2d6c"
+  width="100%"
+/>
+
+</div>
